@@ -33,3 +33,5 @@ yarn dev
 pnpm dev
 ```
 Open http://localhost:3000 with your browser to see the result.
+
+Link to backend repository - https://github.com/aviraldevv/ecommerce-backend
